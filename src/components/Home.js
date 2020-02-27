@@ -5,6 +5,7 @@ function Home() {
     <div>
       <h1>Home</h1>
       <p>Página home do serviço</p>
+      <p>Teste web.config</p>
     </div>
   )
 }
